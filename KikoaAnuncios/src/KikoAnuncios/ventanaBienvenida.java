@@ -1,4 +1,7 @@
 package KikoAnuncios;
-public class ventanaBienvenida {
+
+import javax.swing.JFrame;
+
+public class ventanaBienvenida extends JFrame{
 
 }
